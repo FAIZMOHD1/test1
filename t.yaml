@@ -1,5 +1,6 @@
- pipeline:
+pipeline:
     name: test-pipeline
-    version: 1.0
+    version: 2.0
     steps:
-      - step1: initial value
+      - step1: modified value
+      - step2: new step
