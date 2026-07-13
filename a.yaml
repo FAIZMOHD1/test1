@@ -1,4 +1,4 @@
 pipeline:
     name: test
     type: string
-    version: 6.0
+    version: 1.0
